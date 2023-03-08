@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-color: #1c1c1c;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.margin{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.elsoresz h2{
+text-align: center;
+}
+
+.szoveg p{
+    text-align: center;
+}
+
+.hatter{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 0px 100px 0px 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.kep{
+    margin-top: 5%;
+    text-align: center;
+}
